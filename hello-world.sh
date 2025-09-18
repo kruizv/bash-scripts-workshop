@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hellor, Github!"
+echo "Aquest script ha sigut modificant mitjançan un Fork!"
